@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vaibhav More
 - 👀 I’m interested in Front-End Developement
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning NodeJS
 - 💞️ I’m looking to collaborate on ReactJs Project
 - 📫 morev8917@gmail.com
 
